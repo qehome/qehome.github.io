@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "小辛的成长之路",
+    "home_page_url": "https://github.com/qehome/qehome.github.io/",
+    "feed_url": "https://github.com/qehome/qehome.github.io/feed.json",
+    "description": "常用筛选标签",
+    "items": [
+        {
+            "id": "https://github.com/qehome/qehome.github.io/2021/07/23/qehome-map/",
+            "url": "https://github.com/qehome/qehome.github.io/2021/07/23/qehome-map/",
+            "title": "测试开发知识图谱",
+            "summary": "记录从单纯的测试或者技术小白如何一步步进阶成为一名合格的测试开发工程师",
+            "date_modified": "2021-07-22T16:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/qehome/qehome.github.io/2021/08/04/qehome-git/",
+            "url": "https://github.com/qehome/qehome.github.io/2021/08/04/qehome-git/",
+            "title": "Git基础及Simple Gitflow",
+            "summary": "Git 是一个免费的开源分布式版本控制系统，旨在快速高效地处理从小到大的所有项目。",
+            "image": "https://raw.githubusercontent.com/qehome/resource/master/gitflow_simple.jpg",
+            "date_modified": "2021-08-03T16:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/qehome/qehome.github.io/2021/07/23/daoge/",
+            "url": "https://github.com/qehome/qehome.github.io/2021/07/23/daoge/",
+            "title": "Android内存性能测试",
+            "summary": "以Out of Memory（OOM）为起点介绍一下Android内存的原理以及排查内存问题的方法。",
+            "date_modified": "2021-07-22T16:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/qehome/qehome.github.io/2021/08/12/qehome-shell/",
+            "url": "https://github.com/qehome/qehome.github.io/2021/08/12/qehome-shell/",
+            "title": "Shell脚本常用命令",
+            "summary": "列举Linux&Android常用命令，ls、cd、rm、grep、adb、dumpsys等相关命令",
+            "date_modified": "2021-08-11T16:00:00.000Z"
+        }
+    ]
+}

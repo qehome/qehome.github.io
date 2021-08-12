@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/qehome/qehome.github.io/</id>
+    <title>小辛的成长之路</title>
+    <updated>2021-08-12T02:36:13.873Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://github.com/qehome/qehome.github.io/"/>
+    <link rel="self" href="https://github.com/qehome/qehome.github.io/feed.atom"/>
+    <subtitle>常用筛选标签</subtitle>
+    <entry>
+        <title type="html"><![CDATA[测试开发知识图谱]]></title>
+        <id>https://github.com/qehome/qehome.github.io/2021/07/23/qehome-map/</id>
+        <link href="https://github.com/qehome/qehome.github.io/2021/07/23/qehome-map/">
+        </link>
+        <updated>2021-07-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[记录从单纯的测试或者技术小白如何一步步进阶成为一名合格的测试开发工程师]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git基础及Simple Gitflow]]></title>
+        <id>https://github.com/qehome/qehome.github.io/2021/08/04/qehome-git/</id>
+        <link href="https://github.com/qehome/qehome.github.io/2021/08/04/qehome-git/">
+        </link>
+        <updated>2021-08-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git 是一个免费的开源分布式版本控制系统，旨在快速高效地处理从小到大的所有项目。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android内存性能测试]]></title>
+        <id>https://github.com/qehome/qehome.github.io/2021/07/23/daoge/</id>
+        <link href="https://github.com/qehome/qehome.github.io/2021/07/23/daoge/">
+        </link>
+        <updated>2021-07-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[以Out of Memory（OOM）为起点介绍一下Android内存的原理以及排查内存问题的方法。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shell脚本常用命令]]></title>
+        <id>https://github.com/qehome/qehome.github.io/2021/08/12/qehome-shell/</id>
+        <link href="https://github.com/qehome/qehome.github.io/2021/08/12/qehome-shell/">
+        </link>
+        <updated>2021-08-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[列举Linux&Android常用命令，ls、cd、rm、grep、adb、dumpsys等相关命令]]></summary>
+    </entry>
+</feed>
